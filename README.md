@@ -1,7 +1,7 @@
 ### Hi there I am Svea 👋
 
 - 🔭 I’m currently working for a company called The Mom Project
-- 🌱 I’m currently learning Flutter & Ruby on Rails
+- 🌱 I’m currently learning next.js 
 - 📫 How to reach me: svealinneawade@gmail.com
 - 😄 Pronouns: she, her
 
